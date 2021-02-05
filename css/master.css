@@ -1,5 +1,20 @@
 .pink{
-  min-height: 70px;
+  min-height: 200px;
   background-color: pink;
   border: 1px solid #000;
+}
+
+h6{
+  text-align: center;
+  line-height: 198px;
+}
+
+.cornice{
+  padding: 3px;
+}
+
+.dark-pink{
+  min-height: 200px;
+  background-color: #F07F80;
+  border: 1px solid #fff;
 }
